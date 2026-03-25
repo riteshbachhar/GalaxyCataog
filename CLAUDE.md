@@ -42,7 +42,7 @@ This is a **pure REST API backend** — stateless, pagination-based, no frontend
 
 ### Planned directory structure (to be built):
 ```
-GalaxyCatelog/
+GalaxyCatalog/
 ├── app/
 │   ├── main.py          # FastAPI app instance, router includes
 │   ├── database.py      # SQLAlchemy engine, session factory
